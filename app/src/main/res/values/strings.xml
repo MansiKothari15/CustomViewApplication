@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CustomProfileView App</string>
+
+    <string-array name="profile_info">
+        <item>Las Vegas, NV</item>
+        <item>Single</item>
+        <item>5\'5"</item>
+        <item>Active: Now</item>
+        <item>United States</item>
+        <item>Average</item>
+        <item>Los Angeles, CA</item>
+        <item>Remaining data, XYZ</item>
+    </string-array>
+</resources>
